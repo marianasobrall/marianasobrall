@@ -14,3 +14,5 @@ My name is **Mariana Sobral** and I'm an AI student, currently pursuing a Master
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+![pacman contribution graph](https://raw.githubusercontent.com/<marianasobrall>/<marianasobrall>/output/pacman-contribution-graph.svg)
