@@ -15,4 +15,9 @@ My name is **Mariana Sobral** and I'm an AI student, currently pursuing a Master
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-![pacman contribution graph](https://raw.githubusercontent.com/<marianasobrall>/<marianasobrall>/output/pacman-contribution-graph.svg)
+<!-- pacman -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[marianasobrall]/[marianasobrall]/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[marianasobrall]/[marianasobrall]/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[marianasobrall]/[marianasobrall]/output/pacman-contribution-graph.svg">
+</picture>
