@@ -1,8 +1,8 @@
 ### Hi!
 
-My name is **Mariana Sobral** and I'm an AI student, currently pursuing a Master's in Data Science and Advanced Analytics (AI and Computational Systems) at NOVA IMS, after graduating in Digital Technologies and Artificial Intelligence from ISCTE-IUL. I'm passionate about machine learning, generative AI and I'm always looking to grow in international environments.
+My name is **Mariana Sobral** and I'm an AI student, currently pursuing a Master's in Data Science and Advanced Analytics (AI and Computational Systems) at NOVA IMS, after graduating in Digital Technologies and Artificial Intelligence from ISCTE-IUL. I'm passionate about machine learning, generative AI and I'm always looking for a challenge.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-sobral-4835072a5/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-sobral-4835072a5/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marianaasobral.05@gmail.com)
 
 ### Tools and Languages
